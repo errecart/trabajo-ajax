@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Patty",
+        "precio": 350,
+        "img":"https://via.placeholder.com/150/92c952"
+    },
+    {
+        "id": 2,
+        "nombre": "Selma",
+        "precio": 350,
+        "img":"https://via.placeholder.com/150/92c952"
+    }
+]
+
+
+
+
